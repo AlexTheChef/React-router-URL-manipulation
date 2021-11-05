@@ -1,0 +1,62 @@
+[
+  {
+      "id": 1,
+      "name": "Afghanistan",
+      "iso3": "AFG",
+      "iso2": "AF",
+      "phone_code": "93",
+      "capital": "Kabul",
+      "currency": "AFN",
+      "native": "افغانستان",
+      "emoji": "🇦🇫",
+      "emojiU": "U+1F1E6 U+1F1EB"
+  },
+  {
+      "id": 2,
+      "name": "Aland Islands",
+      "iso3": "ALA",
+      "iso2": "AX",
+      "phone_code": "+358-18",
+      "capital": "Mariehamn",
+      "currency": "EUR",
+      "native": "Åland",
+      "emoji": "🇦🇽",
+      "emojiU": "U+1F1E6 U+1F1FD"
+  },
+  {
+      "id": 3,
+      "name": "Albania",
+      "iso3": "ALB",
+      "iso2": "AL",
+      "phone_code": "355",
+      "capital": "Tirana",
+      "currency": "ALL",
+      "native": "Shqipëria",
+      "emoji": "🇦🇱",
+      "emojiU": "U+1F1E6 U+1F1F1"
+  },
+  {
+      "id": 4,
+      "name": "Algeria",
+      "iso3": "DZA",
+      "iso2": "DZ",
+      "phone_code": "213",
+      "capital": "Algiers",
+      "currency": "DZD",
+      "native": "الجزائر",
+      "emoji": "🇩🇿",
+      "emojiU": "U+1F1E9 U+1F1FF"
+  },
+  {
+      "id": 5,
+      "name": "American Samoa",
+      "iso3": "ASM",
+      "iso2": "AS",
+      "phone_code": "+1-684",
+      "capital": "Pago Pago",
+      "currency": "USD",
+      "native": "American Samoa",
+      "emoji": "🇦🇸",
+      "emojiU": "U+1F1E6 U+1F1F8"
+  }
+]  

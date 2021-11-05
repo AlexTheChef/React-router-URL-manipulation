@@ -1,0 +1,50 @@
+.App {
+  font-size: 25px;
+}
+
+.country {
+  margin: 20px;
+  font-weight: bold;
+  color: rgb(134, 127, 127);
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.country a {
+  text-decoration: none;
+  color: rgb(134, 127, 127);
+}
+
+.search-params {
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.link-page {
+  text-decoration: none;
+  color: rgb(207, 135, 0);
+  font-size: 20px;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.user-params{
+  font-size: 20px;
+  font-weight: bold;
+  color: green;
+}
+
+.about{
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+  align-items: baseline;
+  justify-content: center;
+  margin: 10px;
+  font-weight: 600;
+  color:rgb(73, 73, 73)
+}
+.about div{
+  margin: 10px;
+}
